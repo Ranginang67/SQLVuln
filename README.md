@@ -26,3 +26,6 @@ $chmod +x *.sh
 $./install.sh main.cpp
 $./dork
 ```
+
+<br>
+Note: select language you want to use :D
