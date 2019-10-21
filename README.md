@@ -6,7 +6,7 @@ Simple tool to scanning sql injection vulnerability, easy to use!!
 
 
 
-**Using sqlvuln python engine, available for linux and termux (android)**
+**Using sqlvuln python, available for linux and termux (android)**
 ```
 $apt install pyton3 git -y
 $git clone https://github.com/Ranginang67/SQLVuln
@@ -16,7 +16,7 @@ $python3 sqlvuln.py
 
 
 
-**Using sqlvuln c++ engine, available for linux only**
+**Using sqlvuln c++, available for linux only**
 
 ```
 $sudo apt-get install git
